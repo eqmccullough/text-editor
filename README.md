@@ -4,6 +4,8 @@ In this project I built a PWA text editor application that uses a manifest.json,
 
 # Heroku Deployed Link
 
+https://immense-depths-52176-c627c55a1f74.herokuapp.com/
+
 # Github Project URL
 
 https://github.com/eqmccullough/text-editor
